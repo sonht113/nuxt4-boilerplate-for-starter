@@ -4,7 +4,7 @@
 
 A modern, full-stack boilerplate for building web applications with **Nuxt 4**, **Prisma**, **TypeScript**, and **PostgreSQL**. This project includes authentication, CRUD operations, i18n support, and a beautiful UI ready for production.
 
-Created by [nuicoder](https://github.com/nuicoder)
+Created by [nuicoder](https://github.com/sonht113)
 
 ## ✨ Features
 
@@ -54,7 +54,7 @@ Before you begin, ensure you have the following installed:
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/nuicoder/nuxt-boilerplate-for-starter.git
+git clone https://github.com/sonht113/nuxt-boilerplate-for-starter.git
 cd nuxt-boilerplate-for-starter
 ```
 
