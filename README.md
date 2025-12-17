@@ -2,7 +2,7 @@
 
 ![Banner](/public/readme/banner.png)
 
-A modern, full-stack boilerplate for building web applications with **Nuxt 3**, **Prisma**, **TypeScript**, and **PostgreSQL**. This project includes authentication, CRUD operations, i18n support, and a beautiful UI ready for production.
+A modern, full-stack boilerplate for building web applications with **Nuxt 4**, **Prisma**, **TypeScript**, and **PostgreSQL**. This project includes authentication, CRUD operations, i18n support, and a beautiful UI ready for production.
 
 Created by [nuicoder](https://github.com/nuicoder)
 
@@ -28,7 +28,7 @@ Created by [nuicoder](https://github.com/nuicoder)
 
 ## 🛠️ Tech Stack
 
-- **Frontend Framework:** Nuxt 3
+- **Frontend Framework:** Nuxt 4
 - **Language:** TypeScript
 - **Styling:** Tailwind CSS + Custom CSS
 - **Database:** PostgreSQL
@@ -380,7 +380,7 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙏 Acknowledgments
 
-- [Nuxt 3](https://nuxt.com/)
+- [Nuxt 4](https://nuxt.com/)
 - [Prisma](https://www.prisma.io/)
 - [Tailwind CSS](https://tailwindcss.com/)
 - [Vue 3](https://vuejs.org/)
