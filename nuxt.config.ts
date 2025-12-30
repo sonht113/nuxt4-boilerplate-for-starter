@@ -1,16 +1,15 @@
 export default defineNuxtConfig({
   compatibilityDate: "2025-12-15",
   devtools: { enabled: true },
-
   runtimeConfig: {
     jwtSecret: process.env.JWT_SECRET || "default-secret-change-in-production",
     public: {},
   },
-
   nitro: {
     experimental: {
       openAPI: true,
     },
+    preset: "vercel",
   },
   modules: [
     [
