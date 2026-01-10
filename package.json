@@ -6,9 +6,15 @@
     "build": "prisma generate && nuxt build",
     "dev": "nuxt dev",
     "generate": "nuxt generate",
+    "lint": "eslint --ext .js,.ts,.vue .",
+    "lint:fix": "eslint --ext .js,.ts,.vue . --fix",
     "preview": "nuxt preview",
     "postinstall": "prisma generate",
     "prepare": "husky"
+  },
+  "overrides": {
+    "commander": "13.1.0",
+    "meow": "13.2.0"
   },
   "dependencies": {
     "@nuxt/eslint": "^1.12.1",
